@@ -1,6 +1,8 @@
 Requirements
 ------------
 
+[![Join the chat at https://gitter.im/monzonj/sbt-idea](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/monzonj/sbt-idea?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 * [sbt](https://github.com/sbt/sbt) 0.13
 * For sbt 0.12.x version of the plugin, see [branch sbt-0.12](https://github.com/mpeltonen/sbt-idea/tree/sbt-0.12#requirements)
 
